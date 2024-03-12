@@ -1,10 +1,6 @@
-package atividade03;
+package atividade02;
 
-/**
- *
- * @author giovanna
- */
-public class Atividade03 {
+public class Atividade02 {
 
     public static void main(String[] args) {
        
